@@ -3,7 +3,11 @@
 @import "global/fonts.css";
 @import "global/reboot.css";
 @import "global/visually-hidden.css";
+@import "global/container.css";
 
 /* Blocks */
 /* ------------------------------------ */
 @import "blocks/header.css";
+@import "blocks/gallary.css";
+@import "blocks/content.css";
+@import "blocks/progress.css"
