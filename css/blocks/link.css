@@ -1,0 +1,20 @@
+.link {
+    display: flex;
+    gap: 10px;
+}
+
+.link--left {
+    text-align: right;
+}
+
+.link--right {
+    text-align: left;
+}
+
+.link__text {
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 500;
+    color: #B68E6C;
+    max-width: 100px;
+}

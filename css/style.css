@@ -10,4 +10,5 @@
 @import "blocks/header.css";
 @import "blocks/gallary.css";
 @import "blocks/content.css";
-@import "blocks/progress.css"
+@import "blocks/progress.css";
+@import "blocks/link.css"
